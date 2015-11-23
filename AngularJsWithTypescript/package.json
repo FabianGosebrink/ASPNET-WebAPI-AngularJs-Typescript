@@ -1,0 +1,15 @@
+{
+  "name": "AngularJsDemoApplicationwithTypescript",
+  "version": "1.0.0",
+  "description": "Typescript demo done with Visual Studio Code and ASP.NET WebAPI",
+  "main": "application.js",
+  "scripts": {
+    "init": "npm install"
+  },
+  "author": "Fabian Gosebrink",
+  "license": "MIT",
+  "devDependencies": {
+    "tsd": "^0.6.5",
+    "typescript": "^1.6.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "AngularJsDemoApplicationwithTypescript",
+  "description": "Typescript demo done with Visual Studio Code and ASP.NET WebAPI",
+  "version": "0.0.1",
+  "authors": [
+    "FabianGosebrink"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-resource": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  },
+  "devDependencies": {}
+}
