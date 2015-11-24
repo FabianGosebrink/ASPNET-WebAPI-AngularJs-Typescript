@@ -127,10 +127,12 @@
   <ItemGroup>
     <Content Include="app\application.js" />
     <Content Include="app\Contact\contact.module.js" />
+    <Content Include="app\Contact\contact.routes.js" />
     <Content Include="app\Contact\Controller\contact.controller.js" />
     <Content Include="app\Contact\Templates\contact.html" />
     <Content Include="app\Home\Controller\home.controller.js" />
     <Content Include="app\Home\home.module.js" />
+    <Content Include="app\Home\home.routes.js" />
     <Content Include="app\Home\Services\person.dataService.js" />
     <Content Include="app\Home\Templates\overview.html" />
     <Content Include="app\Models\person.js" />
@@ -161,9 +163,11 @@
   <ItemGroup>
     <TypeScriptCompile Include="app\application.ts" />
     <TypeScriptCompile Include="app\Contact\contact.module.ts" />
+    <TypeScriptCompile Include="app\Contact\contact.routes.ts" />
     <TypeScriptCompile Include="app\Contact\Controller\contact.controller.ts" />
     <TypeScriptCompile Include="app\Home\Controller\home.controller.ts" />
     <TypeScriptCompile Include="app\Home\home.module.ts" />
+    <TypeScriptCompile Include="app\Home\home.routes.ts" />
     <TypeScriptCompile Include="app\Home\Services\person.dataService.ts" />
     <TypeScriptCompile Include="app\Models\person.ts" />
     <TypeScriptCompile Include="typings\angularjs\angular-resource.d.ts" />
