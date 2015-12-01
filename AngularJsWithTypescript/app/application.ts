@@ -4,6 +4,5 @@ module app {
 			"contactModule"])
 		.constant("appSettings", {
             serverPath: "http://localhost:36592/"
-            //serverPath: "http://offeringsolutionssignalrexample.azurewebsites.net/"
         });
 }
