@@ -4,7 +4,7 @@ Here my sample ASP.NET Application is rewritten in Typescript on clientside with
 
 Be sure to have typescript compiler "tsc" and "tsd" installed
 
-http://definitelytyped.org/tsd/
+http://definitelytyped.org/
 
 Just run
 
